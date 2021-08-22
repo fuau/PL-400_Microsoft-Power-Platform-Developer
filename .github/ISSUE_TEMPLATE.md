@@ -1,12 +1,12 @@
-# Module: 00
+# Practice Lab
 ## Lab/Demo: 00
-### Task: 00
-#### Step: 00
+### Task: 01
+#### Step: 02
 
 Description of issue
 
 Repro steps:
 
-1.
+1. Turn option on for Sample Data when creating environment
 1.
 1.
